@@ -8,3 +8,5 @@ A repository to track and unlock GitHub profile achievements
 - Contributions are welcome
 - Please open an issue before submitting a pull request
 - Follow the repository guidelines
+## Acknowledgements
+- Thanks to all contributors and collaborators
